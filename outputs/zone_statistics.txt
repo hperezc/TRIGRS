@@ -1,0 +1,39 @@
+Estadísticas por Zona
+====================
+
+
+Zona 1:
+--------------------
+Factor de Seguridad:
+  Media: 1.602
+  Mediana: 1.880
+  Desv. Est.: 0.469
+  Mínimo: 0.000
+  Máximo: 2.000
+  % Área Inestable: 14.8%
+
+Presión de Poros:
+  Media: 1.764 m
+  Mediana: 1.498 m
+  Desv. Est.: 0.994 m
+  Mínimo: 0.800 m
+  Máximo: 5.274 m
+
+
+Zona 2:
+--------------------
+Factor de Seguridad:
+  Media: 1.694
+  Mediana: 2.000
+  Desv. Est.: 0.379
+  Mínimo: 0.457
+  Máximo: 2.000
+  % Área Inestable: 5.3%
+
+Presión de Poros:
+  Media: 1.469 m
+  Mediana: 1.145 m
+  Desv. Est.: 0.798 m
+  Mínimo: 0.717 m
+  Máximo: 4.800 m
+
