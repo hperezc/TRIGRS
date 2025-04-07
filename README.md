@@ -116,7 +116,7 @@ Si usa este modelo en su investigación, por favor cite:
 @software{TRIGRS2024,
   author = {Pérez, Héctor C.},
   title = {TRIGRS - Transient Rainfall Infiltration and Grid-Based Regional Slope-Stability Analysis},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/hperezc/TRIGRS}
 }
