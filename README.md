@@ -113,11 +113,11 @@ Para preguntas y soporte:
 Si usa este modelo en su investigación, por favor cite:
 
 ```bibtex
-@software{TRIGRS2024,
+@software{TRIGRS_EXTENDIDO2025,
   author = {Pérez, Héctor C.},
   title = {TRIGRS - Transient Rainfall Infiltration and Grid-Based Regional Slope-Stability Analysis},
   year = {2025},
-  publisher = {GitHub},
+  publisher = {hperezc},
   url = {https://github.com/hperezc/TRIGRS}
 }
 ```
